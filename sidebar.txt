@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[obl:home|Door43 (obl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-obl|d43-obl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-obl/archive/master.zip|d43-obl.zip]]
+
+**Recent Changes**
+{{changes>ns = obl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/obl|Ethnologue data]]
+
